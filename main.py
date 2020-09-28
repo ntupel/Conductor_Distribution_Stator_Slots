@@ -1,6 +1,6 @@
 import gc
 import random
-
+# init
 import math
 from modelData import modelData
 from buildModel import buildModel
